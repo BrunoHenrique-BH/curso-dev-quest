@@ -1,0 +1,19 @@
+/* Adicionando padding em todos os lados, desde que sejam de tamanhos (pixels) iguais */
+h1 {
+    padding: 25px;
+}
+
+/* Adicionando padding no topo e inferior, desde que sejam de tamanhos (pixels) iguais: */
+.lorem-1 {
+    padding: 50px 25px;
+}
+
+/* Adicionando padding na direita e esquerda, desde que sejam de tamanhos (pixels) iguais */
+.lorem-2 {
+    padding: 25px;
+}
+
+/* Adicionando padding em todos os lados separadamente, sempre seguindo o sentido horário (top, right, bottom e left) */
+.lorem-3 {
+    padding: 16px 10px 16px 20px;
+}

@@ -1,0 +1,25 @@
+.produto {
+    background-color: darkgray;
+}
+
+.descricao-do-produto {
+    background-color: orange;
+    color: white;
+}
+
+.promocao {
+    border: solid green;
+}
+
+.produto span {
+    font-size: 24px;
+    color: blue;
+}
+
+span {
+    color: red;
+}
+
+.nome-do-span {
+    color: aqua;
+}

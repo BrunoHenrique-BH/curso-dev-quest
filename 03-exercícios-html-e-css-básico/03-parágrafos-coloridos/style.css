@@ -1,0 +1,13 @@
+.espacamentos {
+    margin: 40px;
+    padding: 20px;
+}
+
+.p-1 {
+    background-color: #f5f5f5;
+    border-radius: 10px;
+}
+
+.p-2 {
+    background-color: #f0cce2;
+}

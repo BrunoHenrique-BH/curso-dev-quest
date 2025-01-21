@@ -1,0 +1,19 @@
+/* Adicionando margin em todos os lados, desde que sejam de tamanhos (pixels) iguais */
+h1 {
+    margin: 16px;
+}
+
+/* Adicionando margin no topo e inferior, desde que sejam de tamanhos (pixels) iguais: */
+p {
+    margin: 16px 0;
+}
+
+/* Adicionando margin na direita e esquerda, desde que sejam de tamanhos (pixels) iguais */
+.lorem-2 {
+    margin: 0 16px;
+}
+
+/* Adicionando margin em todos os lados separadamente, sempre seguindo o sentido horário (top, right, bottom e left) */
+.lorem-3 {
+    margin: 16px 10px 16px 20px;
+}

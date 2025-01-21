@@ -1,0 +1,20 @@
+h1 {
+    padding: 25px;
+}
+
+.lorem-1 {
+    border: solid;
+}
+
+.lorem-2 {
+    border: solid 20px;
+}
+
+.lorem-3 {
+    border: solid 20px #ff0000;
+}
+
+.lorem-4 {
+    border: solid 20px;
+    border-color: #000000 #ff0000 #00ff00 #0000ff;
+}

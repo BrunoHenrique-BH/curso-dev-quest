@@ -1,0 +1,33 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.primeira-secao {
+
+    background-color: blue;
+
+    border-bottom: 10px solid green;
+
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.segunda-secao {
+    background-color: red;
+
+    border-bottom: 10px solid green;
+
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.primeira-secao div {
+    background-color: black;
+
+    height: 300px;
+    width: 300px;
+    
+    margin-bottom: 10px;
+}
